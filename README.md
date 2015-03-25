@@ -1,4 +1,3 @@
-# app
-App repository
+# Application
 
 This is a test
